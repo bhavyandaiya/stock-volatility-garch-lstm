@@ -1,5 +1,6 @@
-_**GARCH - LSTM Volatility Forecasting**
-_
+_**GARCH - LSTM Volatility Forecasting**_
+
+
 Stock Market Volatility Forecasting (ARCH/GARCH + LSTM Hybrid):
 This project combines statistical modeling (ARCH/GARCH) and deep learning (LSTM) to forecast stock market volatility.
 The hybrid approach leverages the strengths of both models — GARCH captures short-term volatility clustering, while LSTM learns longer-term temporal dependencies.
